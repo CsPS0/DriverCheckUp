@@ -8,7 +8,7 @@ To run the DriverCheckUp script, you need to have the following software install
 - The wmi module for Python (you can install it using pip: `pip install wmi`)
 ## Usage
 To use DriverCheckUp, simply run the main.py script from a command prompt or terminal:
-`python main.py`
+`python main.py`,     
 The script will output one of the following messages:
 
 - "All drivers are up to date." if all drivers are up to date.
